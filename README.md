@@ -215,7 +215,7 @@ If you encounter any bugs or have feature requests, please create an issue on th
 
 ## 📞 Support
 
-For support, email saqlainmalik1729@gmail.com or create an issue in the repository.
+For support, email iamsaqlain4@gmail.com or create an issue in the repository.
 
 ---
 
